@@ -56,8 +56,7 @@ for key in all_list:
                 d["heart"] = heart.text
                 result_list.append(d)
                 article_link.append(nextlink)
-    # print(result_list)
-    # print(article_link)
+
 
     # driver.quit()                
 
